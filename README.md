@@ -1,5 +1,5 @@
 <div align="center">Olá! 😋</div>
-<p> Apenas uma estudante pouco exigente que passa o tempo brincando com CSS. Usando essa conta para publicar trabalhos da faculdade
+<p> Apenas uma estudante pouco exigente que passa o tempo brincando com CSS. Usando essa conta para publicar trabalhos da faculdade e alguns cursinhos.
 <div style="display: inline_block">
 </div>
   <div align="center">
